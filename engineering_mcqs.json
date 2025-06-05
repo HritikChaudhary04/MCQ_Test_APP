@@ -1,0 +1,2552 @@
+[
+    {
+        "question": "Engineering management is best described as:",
+        "options": [
+            "Applying business theories to engineering",
+            "The study of human behavior in organizations",
+            "The synthesis of engineering and management",
+            "The administrative side of pure engineering"
+        ],
+        "answer": "The synthesis of engineering and management"
+    },
+    {
+        "question": "The key distinction of engineering managers is their:",
+        "options": [
+            "Ability to ignore technical issues",
+            "Strong communication only",
+            "Engineering background with managerial skills",
+            "Focus on accounting"
+        ],
+        "answer": "Engineering background with managerial skills"
+    },
+    {
+        "question": "Which of the following is NOT typically a responsibility of an engineering manager?",
+        "options": [
+            "Designing experiments",
+            "Allocating resources",
+            "Managing people",
+            "Making strategic decisions"
+        ],
+        "answer": "Designing experiments"
+    },
+    {
+        "question": "The role of engineering management is MOST relevant when:",
+        "options": [
+            "Only routine tasks are performed",
+            "Organizations have no technical aspects",
+            "Complex systems require coordination",
+            "Financial accounting is outsourced"
+        ],
+        "answer": "Complex systems require coordination"
+    },
+    {
+        "question": "Which function is considered foundational in both engineering and management?",
+        "options": [
+            "Directing",
+            "Forecasting",
+            "Planning",
+            "Budgeting"
+        ],
+        "answer": "Planning"
+    },
+    {
+        "question": "Engineering is best defined as the application of:",
+        "options": [
+            "Philosophy to processes",
+            "Management to business",
+            "Science and math to problem-solving",
+            "History to systems"
+        ],
+        "answer": "Science and math to problem-solving"
+    },
+    {
+        "question": "Management in engineering focuses on:",
+        "options": [
+            "Financial records",
+            "Scientific exploration",
+            "Resource optimization and leadership",
+            "Social media presence"
+        ],
+        "answer": "Resource optimization and leadership"
+    },
+    {
+        "question": "Technical expertise becomes insufficient in leadership when:",
+        "options": [
+            "There is no competition",
+            "The organization is small",
+            "Complexity and scale increase",
+            "Employees are self-motivated"
+        ],
+        "answer": "Complexity and scale increase"
+    },
+    {
+        "question": "Which of the following is a key challenge for engineering managers?",
+        "options": [
+            "Limited technology",
+            "Balancing short-term goals only",
+            "Aligning technical and business strategies",
+            "Avoiding team-based work"
+        ],
+        "answer": "Aligning technical and business strategies"
+    },
+    {
+        "question": "Engineering managers differ from traditional managers in their:",
+        "options": [
+            "Emphasis on creativity",
+            "Dependence on consultants",
+            "Use of intuition",
+            "Technical literacy"
+        ],
+        "answer": "Technical literacy"
+    },
+    {
+        "question": "Which of the following is a critical element of engineering decision-making?",
+        "options": [
+            "Trends on social media",
+            "Personal feelings",
+            "Data-driven analysis",
+            "Marketing feedback"
+        ],
+        "answer": "Data-driven analysis"
+    },
+    {
+        "question": "An engineering manager must bridge the gap between:",
+        "options": [
+            "Marketing and finance",
+            "Creativity and logic",
+            "Technical problems and business objectives",
+            "Public opinion and business image"
+        ],
+        "answer": "Technical problems and business objectives"
+    },
+    {
+        "question": "A core objective of engineering management is to:",
+        "options": [
+            "Eliminate team hierarchy",
+            "Increase technical depth exclusively",
+            "Optimize systems, people, and resources",
+            "Focus on legal documentation"
+        ],
+        "answer": "Optimize systems, people, and resources"
+    },
+    {
+        "question": "Engineering management emerged as a formal discipline to:",
+        "options": [
+            "Improve education systems",
+            "Replace science departments",
+            "Manage increasing complexity in engineering systems",
+            "Help economists"
+        ],
+        "answer": "Manage increasing complexity in engineering systems"
+    },
+    {
+        "question": "Which is a common misunderstanding about engineering managers?",
+        "options": [
+            "They need communication skills",
+            "They must have both technical and managerial knowledge",
+            "They are just senior engineers",
+            "They often manage projects"
+        ],
+        "answer": "They are just senior engineers"
+    },
+    {
+        "question": "Frederick W. Taylor is best known for:",
+        "options": [
+            "Administrative management",
+            "Scientific management",
+            "Behavioral theory",
+            "Quality control"
+        ],
+        "answer": "Scientific management"
+    },
+    {
+        "question": "The Industrial Revolution's influence on engineering management includes:",
+        "options": [
+            "Focus on social sciences",
+            "Emphasis on manual labor",
+            "Mechanization and labor division",
+            "Decline of organizational structure"
+        ],
+        "answer": "Mechanization and labor division"
+    },
+    {
+        "question": "Henri Fayol contributed to management thought through:",
+        "options": [
+            "Behavioral theories",
+            "Scientific research",
+            "Administrative theory",
+            "Systems engineering"
+        ],
+        "answer": "Administrative theory"
+    },
+    {
+        "question": "The behavioral school of management focuses on:",
+        "options": [
+            "Work measurement",
+            "Hierarchy",
+            "Human relations",
+            "Scientific approaches"
+        ],
+        "answer": "Human relations"
+    },
+    {
+        "question": "Who is known as the father of scientific management?",
+        "options": [
+            "Elton Mayo",
+            "Max Weber",
+            "Frederick W. Taylor",
+            "Henri Fayol"
+        ],
+        "answer": "Frederick W. Taylor"
+    },
+    {
+        "question": "Which thinker introduced the concept of bureaucracy in management?",
+        "options": [
+            "Abraham Maslow",
+            "Max Weber",
+            "Henri Fayol",
+            "Elton Mayo"
+        ],
+        "answer": "Max Weber"
+    },
+    {
+        "question": "The Hawthorne Studies led to the emergence of:",
+        "options": [
+            "Total Quality Management",
+            "Scientific Management",
+            "Behavioral Management",
+            "Management Science"
+        ],
+        "answer": "Behavioral Management"
+    },
+    {
+        "question": "Scientific management emphasizes:",
+        "options": [
+            "Human needs",
+            "Qualitative decision-making",
+            "Efficiency and task optimization",
+            "Marketing strategy"
+        ],
+        "answer": "Efficiency and task optimization"
+    },
+    {
+        "question": "Who emphasized the importance of leadership in administrative theory?",
+        "options": [
+            "Elton Mayo",
+            "Chester Barnard",
+            "Max Weber",
+            "Abraham Maslow"
+        ],
+        "answer": "Chester Barnard"
+    },
+    {
+        "question": "Which school of thought introduced hierarchy and division of labor formally?",
+        "options": [
+            "Systems school",
+            "Scientific management",
+            "Administrative theory",
+            "Behavioral school"
+        ],
+        "answer": "Administrative theory"
+    },
+    {
+        "question": "A key outcome of the Industrial Revolution was:",
+        "options": [
+            "Flattening of organizational structures",
+            "Decentralization",
+            "Emergence of large organizations needing management",
+            "Decline in factory output"
+        ],
+        "answer": "Emergence of large organizations needing management"
+    },
+    {
+        "question": "Abraham Maslow is known for:",
+        "options": [
+            "The hierarchy of needs",
+            "Decision matrix",
+            "Management by objectives",
+            "Administrative principles"
+        ],
+        "answer": "The hierarchy of needs"
+    },
+    {
+        "question": "Elton Mayo's Hawthorne studies were conducted at:",
+        "options": [
+            "Ford Motor Company",
+            "General Motors",
+            "Western Electric",
+            "General Electric"
+        ],
+        "answer": "Western Electric"
+    },
+    {
+        "question": "Management science emerged as a response to:",
+        "options": [
+            "Total Quality demands",
+            "Need for mathematical approaches in decisions",
+            "Focus on human psychology",
+            "Decline in planning"
+        ],
+        "answer": "Need for mathematical approaches in decisions"
+    },
+    {
+        "question": "Which of the following was a major limitation of early scientific management?",
+        "options": [
+            "Ignored physical working conditions",
+            "Ignored worker motivation",
+            "Lack of data",
+            "Excessive decentralization"
+        ],
+        "answer": "Ignored worker motivation"
+    },
+    {
+        "question": "Planning is best defined as:",
+        "options": [
+            "Organizing resources",
+            "Setting goals and determining how to achieve them",
+            "Hiring staff",
+            "Evaluating performance"
+        ],
+        "answer": "Setting goals and determining how to achieve them"
+    },
+    {
+        "question": "Which of the following is the foundation of planning?",
+        "options": [
+            "Forecasting",
+            "Organizing",
+            "Decision making",
+            "Vision and mission"
+        ],
+        "answer": "Vision and mission"
+    },
+    {
+        "question": "A forecast is:",
+        "options": [
+            "A guarantee of future success",
+            "An estimate of future trends and events",
+            "A summary of past events",
+            "A list of daily tasks"
+        ],
+        "answer": "An estimate of future trends and events"
+    },
+    {
+        "question": "Strategic planning is characterized by:",
+        "options": [
+            "Short-term focus",
+            "Departmental details",
+            "Long-term goals and direction",
+            "Production scheduling"
+        ],
+        "answer": "Long-term goals and direction"
+    },
+    {
+        "question": "Tactical plans are generally:",
+        "options": [
+            "Vague and undefined",
+            "Long-term and abstract",
+            "Specific and short to medium-term",
+            "Not necessary"
+        ],
+        "answer": "Specific and short to medium-term"
+    },
+    {
+        "question": "Forecasting techniques include:",
+        "options": [
+            "Brainstorming only",
+            "Judgments, historical data, and models",
+            "Random guessing",
+            "Vision statements"
+        ],
+        "answer": "Judgments, historical data, and models"
+    },
+    {
+        "question": "Delphi Method is:",
+        "options": [
+            "A forecasting technique based on group consensus",
+            "A budgeting tool",
+            "A motivational theory",
+            "A project scheduling method"
+        ],
+        "answer": "A forecasting technique based on group consensus"
+    },
+    {
+        "question": "Which planning concept aligns operations with strategy?",
+        "options": [
+            "Daily planning",
+            "Contingency planning",
+            "Operational planning",
+            "Strategic alignment"
+        ],
+        "answer": "Strategic alignment"
+    },
+    {
+        "question": "Numerical forecasting is:",
+        "options": [
+            "Always subjective",
+            "Based on qualitative opinions",
+            "Based on quantitative models",
+            "Not suitable for planning"
+        ],
+        "answer": "Based on quantitative models"
+    },
+    {
+        "question": "Contingency planning deals with:",
+        "options": [
+            "Planning vacations",
+            "Unplanned events or risks",
+            "Quality control",
+            "Budget increases"
+        ],
+        "answer": "Unplanned events or risks"
+    },
+    {
+        "question": "SWOT stands for:",
+        "options": [
+            "Strengths, Weaknesses, Options, Targets",
+            "Strengths, Weaknesses, Opportunities, Threats",
+            "Systems, Workflows, Operations, Teams",
+            "Safety, Workforce, Optimization, Tactics"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, Threats"
+    },
+    {
+        "question": "Long-term planning usually covers:",
+        "options": [
+            "A day",
+            "A week",
+            "One year or more",
+            "A month"
+        ],
+        "answer": "One year or more"
+    },
+    {
+        "question": "Scenario planning considers:",
+        "options": [
+            "A single fixed future",
+            "Multiple possible futures",
+            "Budget only",
+            "Employee satisfaction"
+        ],
+        "answer": "Multiple possible futures"
+    },
+    {
+        "question": "Gantt charts help with:",
+        "options": [
+            "Budgeting",
+            "Scheduling and progress tracking",
+            "Legal documentation",
+            "Corporate restructuring"
+        ],
+        "answer": "Scheduling and progress tracking"
+    },
+    {
+        "question": "Effective planning leads to:",
+        "options": [
+            "More paperwork",
+            "Increased uncertainty",
+            "Better resource utilization and goal clarity",
+            "Higher costs"
+        ],
+        "answer": "Better resource utilization and goal clarity"
+    },
+    {
+        "question": "Decision making involves:",
+        "options": [
+            "Avoiding responsibility",
+            "Choosing among alternatives",
+            "Following orders",
+            "Ignoring data"
+        ],
+        "answer": "Choosing among alternatives"
+    },
+    {
+        "question": "Programmed decisions are:",
+        "options": [
+            "Unique and unstructured",
+            "Repetitive and routine",
+            "Legal rulings",
+            "Vision statements"
+        ],
+        "answer": "Repetitive and routine"
+    },
+    {
+        "question": "Non-programmed decisions involve:",
+        "options": [
+            "Routine activities",
+            "Structured data only",
+            "Unique and complex problems",
+            "Standardized processes"
+        ],
+        "answer": "Unique and complex problems"
+    },
+    {
+        "question": "Decision tree is a:",
+        "options": [
+            "Financial tool",
+            "Qualitative diagram for risks",
+            "Visual model showing decision paths and outcomes",
+            "Marketing tool"
+        ],
+        "answer": "Visual model showing decision paths and outcomes"
+    },
+    {
+        "question": "Linear programming is used for:",
+        "options": [
+            "Writing code",
+            "Optimization under constraints",
+            "Scheduling TV shows",
+            "Time management"
+        ],
+        "answer": "Optimization under constraints"
+    },
+    {
+        "question": "Sensitivity analysis measures:",
+        "options": [
+            "Emotional impact of decisions",
+            "Profit margins",
+            "Effect of variable changes on outcomes",
+            "Labor turnover"
+        ],
+        "answer": "Effect of variable changes on outcomes"
+    },
+    {
+        "question": "Simulation is:",
+        "options": [
+            "Theoretical modeling",
+            "Real-world testing",
+            "Imitation of real-world scenarios for analysis",
+            "Guesswork"
+        ],
+        "answer": "Imitation of real-world scenarios for analysis"
+    },
+    {
+        "question": "Decision criteria are:",
+        "options": [
+            "Rules for hiring",
+            "Standards for evaluating alternatives",
+            "Budgeting systems",
+            "Project tools"
+        ],
+        "answer": "Standards for evaluating alternatives"
+    },
+    {
+        "question": "Risk is highest in:",
+        "options": [
+            "Programmed decisions",
+            "Routine tasks",
+            "Non-programmed decisions",
+            "Linear models"
+        ],
+        "answer": "Non-programmed decisions"
+    },
+    {
+        "question": "A key step in decision making:",
+        "options": [
+            "Jumping to conclusions",
+            "Identifying the problem clearly",
+            "Avoiding feedback",
+            "Ignoring constraints"
+        ],
+        "answer": "Identifying the problem clearly"
+    },
+    {
+        "question": "MIS stands for:",
+        "options": [
+            "Management Input System",
+            "Management Information System",
+            "Managerial Issue Solver",
+            "Mission Implementation Strategy"
+        ],
+        "answer": "Management Information System"
+    },
+    {
+        "question": "PERT helps in:",
+        "options": [
+            "Goal setting",
+            "Resource elimination",
+            "Project scheduling under uncertainty",
+            "Ethics evaluation"
+        ],
+        "answer": "Project scheduling under uncertainty"
+    },
+    {
+        "question": "Goal programming is:",
+        "options": [
+            "Used in sports",
+            "Extension of linear programming for multiple objectives",
+            "Irrelevant to engineering",
+            "Opposite of decision trees"
+        ],
+        "answer": "Extension of linear programming for multiple objectives"
+    },
+    {
+        "question": "Bounded rationality implies:",
+        "options": [
+            "Unlimited decision-making ability",
+            "Limited by constraints and info available",
+            "Ideal models",
+            "Always irrational outcomes"
+        ],
+        "answer": "Limited by constraints and info available"
+    },
+    {
+        "question": "The final step in decision-making process:",
+        "options": [
+            "Collect data",
+            "Implement and evaluate decision",
+            "Brainstorming",
+            "Write reports"
+        ],
+        "answer": "Implement and evaluate decision"
+    },
+    {
+        "question": "Organizing is:",
+        "options": [
+            "Setting goals",
+            "Grouping tasks and resources",
+            "Recruiting employees",
+            "Budget planning"
+        ],
+        "answer": "Grouping tasks and resources"
+    },
+    {
+        "question": "The structure of an organization defines:",
+        "options": [
+            "Its products",
+            "Its hierarchy and roles",
+            "Its marketing strategy",
+            "Its culture"
+        ],
+        "answer": "Its hierarchy and roles"
+    },
+    {
+        "question": "Departmentalization is:",
+        "options": [
+            "Job analysis",
+            "Dividing organization based on functions",
+            "Advertising methods",
+            "Leadership style"
+        ],
+        "answer": "Dividing organization based on functions"
+    },
+    {
+        "question": "A matrix structure:",
+        "options": [
+            "Is hierarchical only",
+            "Combines functional and project-based structures",
+            "Has no authority chain",
+            "Avoids collaboration"
+        ],
+        "answer": "Combines functional and project-based structures"
+    },
+    {
+        "question": "Chain of command ensures:",
+        "options": [
+            "Flexible reporting",
+            "Clear authority and responsibility",
+            "Increased paperwork",
+            "Casual environment"
+        ],
+        "answer": "Clear authority and responsibility"
+    },
+    {
+        "question": "Unity of command means:",
+        "options": [
+            "One person has two bosses",
+            "Everyone reports to HR",
+            "One employee reports to one supervisor",
+            "Teams operate independently"
+        ],
+        "answer": "One employee reports to one supervisor"
+    },
+    {
+        "question": "Span of control refers to:",
+        "options": [
+            "Width of office space",
+            "Number of subordinates a manager oversees",
+            "Pay grade",
+            "Levels of management"
+        ],
+        "answer": "Number of subordinates a manager oversees"
+    },
+    {
+        "question": "Centralization means:",
+        "options": [
+            "Authority is at the top level",
+            "Everyone makes decisions",
+            "HR manages operations",
+            "Teams are scattered"
+        ],
+        "answer": "Authority is at the top level"
+    },
+    {
+        "question": "Decentralization allows:",
+        "options": [
+            "Top-level control",
+            "More decision-making at lower levels",
+            "More hierarchy",
+            "Less innovation"
+        ],
+        "answer": "More decision-making at lower levels"
+    },
+    {
+        "question": "Formal organization includes:",
+        "options": [
+            "Friendships",
+            "Official structures and rules",
+            "Gossip networks",
+            "Sports events"
+        ],
+        "answer": "Official structures and rules"
+    },
+    {
+        "question": "Informal organization arises from:",
+        "options": [
+            "Formal charts",
+            "Interpersonal relationships",
+            "Strategic goals",
+            "Job postings"
+        ],
+        "answer": "Interpersonal relationships"
+    },
+    {
+        "question": "Line authority:",
+        "options": [
+            "Supports departments",
+            "Gives advice",
+            "Directs subordinates",
+            "Manages finance"
+        ],
+        "answer": "Directs subordinates"
+    },
+    {
+        "question": "Staff authority provides:",
+        "options": [
+            "Direct command",
+            "Support and advice",
+            "Job descriptions",
+            "Control budgets"
+        ],
+        "answer": "Support and advice"
+    },
+    {
+        "question": "Job design considers:",
+        "options": [
+            "Salary scale",
+            "Tasks, responsibilities, and relationships",
+            "Legal rules",
+            "Factory location"
+        ],
+        "answer": "Tasks, responsibilities, and relationships"
+    },
+    {
+        "question": "Delegation is:",
+        "options": [
+            "Keeping authority",
+            "Assigning tasks and empowering others",
+            "Filing reports",
+            "Terminating contracts"
+        ],
+        "answer": "Assigning tasks and empowering others"
+    },
+    {
+        "question": "Staffing is primarily concerned with:",
+        "options": [
+            "Setting budgets",
+            "Hiring and placing the right people",
+            "Manufacturing",
+            "Market research"
+        ],
+        "answer": "Hiring and placing the right people"
+    },
+    {
+        "question": "Delegation means:",
+        "options": [
+            "Avoiding work",
+            "Assigning tasks and authority",
+            "Taking full control",
+            "Removing responsibilities"
+        ],
+        "answer": "Assigning tasks and authority"
+    },
+    {
+        "question": "Authority is:",
+        "options": [
+            "Power to influence people",
+            "Legal or formal right to command",
+            "Informal influence",
+            "A type of motivation"
+        ],
+        "answer": "Legal or formal right to command"
+    },
+    {
+        "question": "Power refers to:",
+        "options": [
+            "Physical strength",
+            "Ability to influence behavior",
+            "Financial capacity",
+            "Product development"
+        ],
+        "answer": "Ability to influence behavior"
+    },
+    {
+        "question": "Committees help in:",
+        "options": [
+            "Individual decisions",
+            "Group decision-making",
+            "Avoiding responsibility",
+            "Planning vacations"
+        ],
+        "answer": "Group decision-making"
+    },
+    {
+        "question": "A disadvantage of committees:",
+        "options": [
+            "Faster decision-making",
+            "Lack of structure",
+            "Time-consuming and slow",
+            "Higher authority"
+        ],
+        "answer": "Time-consuming and slow"
+    },
+    {
+        "question": "Effective meetings should:",
+        "options": [
+            "Be unplanned",
+            "Have a clear agenda and time limits",
+            "Include everyone in the organization",
+            "Avoid conclusions"
+        ],
+        "answer": "Have a clear agenda and time limits"
+    },
+    {
+        "question": "Informal organization arises from:",
+        "options": [
+            "Formal structure",
+            "Employee interactions",
+            "Job descriptions",
+            "Corporate by laws"
+        ],
+        "answer": "Employee interactions"
+    },
+    {
+        "question": "Unity of command means:",
+        "options": [
+            "Multiple supervisors",
+            "One person reports to one manager",
+            "Departmental silos",
+            "Cross-functional teams"
+        ],
+        "answer": "One person reports to one manager"
+    },
+    {
+        "question": "Span of control is:",
+        "options": [
+            "The number of levels in hierarchy",
+            "Number of subordinates a manager can effectively handle",
+            "Number of meetings held",
+            "A type of power"
+        ],
+        "answer": "Number of subordinates a manager can effectively handle"
+    },
+    {
+        "question": "Line authority refers to:",
+        "options": [
+            "Advisory role",
+            "Direct chain of command",
+            "Project-specific authority",
+            "Temporary control"
+        ],
+        "answer": "Direct chain of command"
+    },
+    {
+        "question": "Staff authority provides:",
+        "options": [
+            "Orders to workers",
+            "Support and advice to line managers",
+            "Chain of command",
+            "Hiring power"
+        ],
+        "answer": "Support and advice to line managers"
+    },
+    {
+        "question": "Job description includes:",
+        "options": [
+            "Resume",
+            "List of equipment",
+            "Duties and responsibilities of a job",
+            "Organizational chart"
+        ],
+        "answer": "Duties and responsibilities of a job"
+    },
+    {
+        "question": "Committee chairperson is responsible for:",
+        "options": [
+            "Voting only",
+            "Scheduling meetings",
+            "Leading and facilitating discussions",
+            "HR decisions"
+        ],
+        "answer": "Leading and facilitating discussions"
+    },
+    {
+        "question": "Empowerment means:",
+        "options": [
+            "Reducing responsibilities",
+            "Granting autonomy and decision-making power",
+            "Limiting authority",
+            "Formal reporting"
+        ],
+        "answer": "Granting autonomy and decision-making power"
+    },
+    {
+        "question": "Motivation is:",
+        "options": [
+            "Force that directs and maintains behavior",
+            "A type of reward",
+            "External pressure",
+            "A salary increase"
+        ],
+        "answer": "Force that directs and maintains behavior"
+    },
+    {
+        "question": "Maslow’s hierarchy includes:",
+        "options": [
+            "Strategic needs",
+            "Physiological to self-actualization",
+            "Technical competencies",
+            "Political power"
+        ],
+        "answer": "Physiological to self-actualization"
+    },
+    {
+        "question": "Herzberg’s two-factor theory includes:",
+        "options": [
+            "Security and learning",
+            "Hygiene and motivators",
+            "Innovation and feedback",
+            "Leadership and goals"
+        ],
+        "answer": "Hygiene and motivators"
+    },
+    {
+        "question": "Leadership is:",
+        "options": [
+            "Dictating orders",
+            "Influencing people toward goals",
+            "Monitoring behavior",
+            "Disciplining staff"
+        ],
+        "answer": "Influencing people toward goals"
+    },
+    {
+        "question": "Theory X and Theory Y are developed by:",
+        "options": [
+            "Fayol",
+            "Maslow",
+            "McGregor",
+            "Drucker"
+        ],
+        "answer": "McGregor"
+    },
+    {
+        "question": "Theory X assumes:",
+        "options": [
+            "People love work",
+            "Employees dislike work and avoid responsibility",
+            "People are self-directed",
+            "People are innovative"
+        ],
+        "answer": "Employees dislike work and avoid responsibility"
+    },
+    {
+        "question": "Theory Y assumes:",
+        "options": [
+            "Strict supervision is needed",
+            "Employees can be self-motivated",
+            "Motivation requires punishment",
+            "People dislike creativity"
+        ],
+        "answer": "Employees can be self-motivated"
+    },
+    {
+        "question": "Technical professionals are motivated by:",
+        "options": [
+            "Repetition",
+            "Autonomy and challenging tasks",
+            "Constant supervision",
+            "Social media"
+        ],
+        "answer": "Autonomy and challenging tasks"
+    },
+    {
+        "question": "Leadership style that encourages participation:",
+        "options": [
+            "Autocratic",
+            "Laissez-faire",
+            "Democratic",
+            "Directive"
+        ],
+        "answer": "Democratic"
+    },
+    {
+        "question": "Laissez-faire leadership is:",
+        "options": [
+            "Highly structured",
+            "Hands-off and permissive",
+            "Directive",
+            "Military style"
+        ],
+        "answer": "Hands-off and permissive"
+    },
+    {
+        "question": "Transformational leaders:",
+        "options": [
+            "Resist change",
+            "Inspire and bring change",
+            "Avoid communication",
+            "Focus on punishments"
+        ],
+        "answer": "Inspire and bring change"
+    },
+    {
+        "question": "Transactional leaders focus on:",
+        "options": [
+            "Vision",
+            "Rewards and penalties",
+            "Innovation",
+            "Strategy only"
+        ],
+        "answer": "Rewards and penalties"
+    },
+    {
+        "question": "Emotional intelligence is critical in:",
+        "options": [
+            "Machinery operations",
+            "Effective leadership",
+            "Budget analysis",
+            "Legal documentation"
+        ],
+        "answer": "Effective leadership"
+    },
+    {
+        "question": "Effective motivation increases:",
+        "options": [
+            "Absenteeism",
+            "Conflict",
+            "Performance and satisfaction",
+            "Stress"
+        ],
+        "answer": "Performance and satisfaction"
+    },
+    {
+        "question": "Self-actualization refers to:",
+        "options": [
+            "Basic needs",
+            "Safety needs",
+            "Achieving full potential",
+            "Social interactions"
+        ],
+        "answer": "Achieving full potential"
+    },
+    {
+        "question": "Engineering design is primarily focused on:",
+        "options": [
+            "Marketing strategy",
+            "Creating technical solutions to problems",
+            "Hiring employees",
+            "Financial forecasting"
+        ],
+        "answer": "Creating technical solutions to problems"
+    },
+    {
+        "question": "The first phase in the design process is:",
+        "options": [
+            "Detail design",
+            "Manufacturing",
+            "Problem definition",
+            "Testing"
+        ],
+        "answer": "Problem definition"
+    },
+    {
+        "question": "Concurrent engineering involves:",
+        "options": [
+            "Sequential design phases",
+            "Isolated departments",
+            "Parallel development activities",
+            "Outsourcing only"
+        ],
+        "answer": "Parallel development activities"
+    },
+    {
+        "question": "A prototype is:",
+        "options": [
+            "Final product",
+            "An early sample or model",
+            "A software bug",
+            "Design theory"
+        ],
+        "answer": "An early sample or model"
+    },
+    {
+        "question": "Value engineering aims to:",
+        "options": [
+            "Maximize cost",
+            "Eliminate creativity",
+            "Increase value without compromising quality",
+            "Slow down production"
+        ],
+        "answer": "Increase value without compromising quality"
+    },
+    {
+        "question": "Design for manufacturability focuses on:",
+        "options": [
+            "Aesthetic appeal only",
+            "Ease and cost of manufacturing",
+            "Customer reviews",
+            "Warranty issues"
+        ],
+        "answer": "Ease and cost of manufacturing"
+    },
+    {
+        "question": "CAD stands for:",
+        "options": [
+            "Computer-Aided Design",
+            "Computer Automated Drawing",
+            "Creative Art Design",
+            "Central Analysis Device"
+        ],
+        "answer": "Computer-Aided Design"
+    },
+    {
+        "question": "Reverse engineering is:",
+        "options": [
+            "Developing new laws",
+            "Disassembling products to learn design",
+            "Recycling garbage",
+            "A type of testing"
+        ],
+        "answer": "Disassembling products to learn design"
+    },
+    {
+        "question": "The goal of system design is:",
+        "options": [
+            "Random experimentation",
+            "Political discussion",
+            "Integration of components to work as a whole",
+            "Financial reporting"
+        ],
+        "answer": "Integration of components to work as a whole"
+    },
+    {
+        "question": "An engineering change order is used to:",
+        "options": [
+            "Promote engineers",
+            "Record changes in design",
+            "Hire consultants",
+            "Fire employees"
+        ],
+        "answer": "Record changes in design"
+    },
+    {
+        "question": "Which is a constraint in design?",
+        "options": [
+            "Budget",
+            "Creativity",
+            "Style",
+            "Marketing"
+        ],
+        "answer": "Budget"
+    },
+    {
+        "question": "Sustainability in design considers:",
+        "options": [
+            "Resource usage and environmental impact",
+            "Brand slogans",
+            "Profit margin only",
+            "Social media presence"
+        ],
+        "answer": "Resource usage and environmental impact"
+    },
+    {
+        "question": "A design specification outlines:",
+        "options": [
+            "Sales pitch",
+            "Legal compliance",
+            "Technical and performance requirements",
+            "Board meeting notes"
+        ],
+        "answer": "Technical and performance requirements"
+    },
+    {
+        "question": "FMEA stands for:",
+        "options": [
+            "Final Model Evaluation Assessment",
+            "Failure Modes and Effects Analysis",
+            "Functional Mechanism Estimation Approach",
+            "Financial Management Evaluation Audit"
+        ],
+        "answer": "Failure Modes and Effects Analysis"
+    },
+    {
+        "question": "Ergonomics in design refers to:",
+        "options": [
+            "Software compatibility",
+            "User comfort and interface",
+            "Legal issues",
+            "Temperature control"
+        ],
+        "answer": "User comfort and interface"
+    },
+    {
+        "question": "Operations management is about:",
+        "options": [
+            "Customer feedback only",
+            "Transforming inputs into outputs efficiently",
+            "Marketing only",
+            "Employee evaluations"
+        ],
+        "answer": "Transforming inputs into outputs efficiently"
+    },
+    {
+        "question": "Just-In-Time (JIT) production aims to:",
+        "options": [
+            "Stockpile inventory",
+            "Increase delivery times",
+            "Reduce waste and inventory",
+            "Reduce product quality"
+        ],
+        "answer": "Reduce waste and inventory"
+    },
+    {
+        "question": "Lean production focuses on:",
+        "options": [
+            "More meetings",
+            "Waste elimination",
+            "Increasing complexity",
+            "Heavy inventory"
+        ],
+        "answer": "Waste elimination"
+    },
+    {
+        "question": "The critical path method (CPM) helps with:",
+        "options": [
+            "Budgeting only",
+            "Shortening meetings",
+            "Project scheduling",
+            "Legal decisions"
+        ],
+        "answer": "Project scheduling"
+    },
+    {
+        "question": "Capacity planning determines:",
+        "options": [
+            "Office size",
+            "Maximum output capability",
+            "HR policies",
+            "Profit sharing"
+        ],
+        "answer": "Maximum output capability"
+    },
+    {
+        "question": "Total Quality Management (TQM) emphasizes:",
+        "options": [
+            "Managerial convenience",
+            "Customer satisfaction and continuous improvement",
+            "Increased bureaucracy",
+            "Isolated inspection"
+        ],
+        "answer": "Customer satisfaction and continuous improvement"
+    },
+    {
+        "question": "Process layout is used when:",
+        "options": [
+            "Tasks are standardized",
+            "Custom products are made",
+            "Workstations are arranged by function",
+            "Offices need to be redesigned"
+        ],
+        "answer": "Workstations are arranged by function"
+    },
+    {
+        "question": "A Gantt chart is used for:",
+        "options": [
+            "Legal documentation",
+            "Time scheduling",
+            "Strategic goals",
+            "Financial auditing"
+        ],
+        "answer": "Time scheduling"
+    },
+    {
+        "question": "Bottlenecks in operations cause:",
+        "options": [
+            "Smooth workflow",
+            "Delays in production",
+            "Reduced waste",
+            "Higher morale"
+        ],
+        "answer": "Delays in production"
+    },
+    {
+        "question": "Statistical process control involves:",
+        "options": [
+            "Financial statistics",
+            "Quality control using data",
+            "Legal rules",
+            "Market trends"
+        ],
+        "answer": "Quality control using data"
+    },
+    {
+        "question": "Automation in operations increases:",
+        "options": [
+            "Manual work",
+            "Human error",
+            "Efficiency and consistency",
+            "Salary disputes"
+        ],
+        "answer": "Efficiency and consistency"
+    },
+    {
+        "question": "Inventory management includes:",
+        "options": [
+            "Accounting only",
+            "Monitoring and controlling stock levels",
+            "Marketing slogans",
+            "HR reports"
+        ],
+        "answer": "Monitoring and controlling stock levels"
+    },
+    {
+        "question": "Supply chain management ensures:",
+        "options": [
+            "Employee turnover",
+            "Efficient flow of goods and services",
+            "HR compliance",
+            "Store layout"
+        ],
+        "answer": "Efficient flow of goods and services"
+    },
+    {
+        "question": "Benchmarking compares performance:",
+        "options": [
+            "To past internal data",
+            "Against competitors or standards",
+            "Randomly",
+            "Without purpose"
+        ],
+        "answer": "Against competitors or standards"
+    },
+    {
+        "question": "Work measurement helps determine:",
+        "options": [
+            "Employee personality",
+            "Standard time for tasks",
+            "Marketing effectiveness",
+            "Color preferences"
+        ],
+        "answer": "Standard time for tasks"
+    },
+    {
+        "question": "Financial management involves:",
+        "options": [
+            "Product development",
+            "Managing a firm’s resources for profit and growth",
+            "Advertising",
+            "Legal enforcement"
+        ],
+        "answer": "Managing a firm’s resources for profit and growth"
+    },
+    {
+        "question": "The balance sheet shows:",
+        "options": [
+            "Sales and profits",
+            "Assets, liabilities, and equity",
+            "Customer satisfaction",
+            "Payroll reports"
+        ],
+        "answer": "Assets, liabilities, and equity"
+    },
+    {
+        "question": "The income statement reports:",
+        "options": [
+            "Financial position at a point in time",
+            "Net income over a period",
+            "Future projections",
+            "Employee complaints"
+        ],
+        "answer": "Net income over a period"
+    },
+    {
+        "question": "ROI stands for:",
+        "options": [
+            "Return on Innovation",
+            "Return on Investment",
+            "Ratio of Inventory",
+            "Rate of Input"
+        ],
+        "answer": "Return on Investment"
+    },
+    {
+        "question": "Cash flow statement tracks:",
+        "options": [
+            "Profitability",
+            "Money in and out of a company",
+            "Debt ratio",
+            "Stockholder equity"
+        ],
+        "answer": "Money in and out of a company"
+    },
+    {
+        "question": "Capital budgeting evaluates:",
+        "options": [
+            "Departmental costs",
+            "Long-term investment decisions",
+            "Advertising budgets",
+            "Short-term loans"
+        ],
+        "answer": "Long-term investment decisions"
+    },
+    {
+        "question": "Net present value (NPV) helps to:",
+        "options": [
+            "Calculate taxes",
+            "Evaluate profitability of future projects",
+            "Design marketing strategy",
+            "Fire employees"
+        ],
+        "answer": "Evaluate profitability of future projects"
+    },
+    {
+        "question": "Depreciation is:",
+        "options": [
+            "Increase in asset value",
+            "Loss in value over time",
+            "Budget increase",
+            "Return policy"
+        ],
+        "answer": "Loss in value over time"
+    },
+    {
+        "question": "Equity financing comes from:",
+        "options": [
+            "Loans",
+            "Investors",
+            "Leases",
+            "Taxes"
+        ],
+        "answer": "Investors"
+    },
+    {
+        "question": "A financial ratio helps assess:",
+        "options": [
+            "Employee morale",
+            "Financial health and performance",
+            "Company culture",
+            "Product design"
+        ],
+        "answer": "Financial health and performance"
+    },
+    {
+        "question": "Break-even analysis shows:",
+        "options": [
+            "Stock prices",
+            "When revenues equal costs",
+            "Advertising cost",
+            "Tax owed"
+        ],
+        "answer": "When revenues equal costs"
+    },
+    {
+        "question": "Working capital is:",
+        "options": [
+            "Revenue minus costs",
+            "Current assets minus current liabilities",
+            "Shareholder funds",
+            "Machine depreciation"
+        ],
+        "answer": "Current assets minus current liabilities"
+    },
+    {
+        "question": "Budgeting helps:",
+        "options": [
+            "Monitor performance and control spending",
+            "Replace employees",
+            "Avoid planning",
+            "Increase taxes"
+        ],
+        "answer": "Monitor performance and control spending"
+    },
+    {
+        "question": "Credit rating indicates:",
+        "options": [
+            "Employee performance",
+            "Borrower’s creditworthiness",
+            "Product quality",
+            "Software version"
+        ],
+        "answer": "Borrower’s creditworthiness"
+    },
+    {
+        "question": "Dividend is:",
+        "options": [
+            "Employee bonus",
+            "Profit share given to shareholders",
+            "Tax rebate",
+            "Government fine"
+        ],
+        "answer": "Profit share given to shareholders"
+    },
+    {
+        "question": "Human Resource Management is concerned with:",
+        "options": [
+            "Machine operation",
+            "Managing people in organizations",
+            "Product design",
+            "Legal drafting"
+        ],
+        "answer": "Managing people in organizations"
+    },
+    {
+        "question": "Recruitment means:",
+        "options": [
+            "Promoting internally",
+            "Hiring suitable candidates",
+            "Terminating employees",
+            "Budget planning"
+        ],
+        "answer": "Hiring suitable candidates"
+    },
+    {
+        "question": "Selection involves:",
+        "options": [
+            "Job analysis",
+            "Choosing the right candidate from applicants",
+            "Preparing invoices",
+            "Market research"
+        ],
+        "answer": "Choosing the right candidate from applicants"
+    },
+    {
+        "question": "Training develops:",
+        "options": [
+            "Raw materials",
+            "Employee skills",
+            "Assets",
+            "Tax files"
+        ],
+        "answer": "Employee skills"
+    },
+    {
+        "question": "Performance appraisal evaluates:",
+        "options": [
+            "Machines",
+            "Supplier contracts",
+            "Employee effectiveness",
+            "Packaging"
+        ],
+        "answer": "Employee effectiveness"
+    },
+    {
+        "question": "Job description includes:",
+        "options": [
+            "Employee name",
+            "Duties and responsibilities",
+            "Retirement benefits",
+            "Pay scale"
+        ],
+        "answer": "Duties and responsibilities"
+    },
+    {
+        "question": "Motivation can be improved by:",
+        "options": [
+            "Job design, recognition, and incentives",
+            "Firing",
+            "Delays",
+            "Less pay"
+        ],
+        "answer": "Job design, recognition, and incentives"
+    },
+    {
+        "question": "HR planning ensures:",
+        "options": [
+            "Equipment maintenance",
+            "Right people are hired at the right time",
+            "Sales target met",
+            "Advertisement"
+        ],
+        "answer": "Right people are hired at the right time"
+    },
+    {
+        "question": "Compensation refers to:",
+        "options": [
+            "Punishment",
+            "Salary and benefits",
+            "Fines",
+            "Scheduling"
+        ],
+        "answer": "Salary and benefits"
+    },
+    {
+        "question": "Industrial relations deal with:",
+        "options": [
+            "Supplier networks",
+            "Union-management relationships",
+            "Software performance",
+            "Market share"
+        ],
+        "answer": "Union-management relationships"
+    },
+    {
+        "question": "Succession planning is:",
+        "options": [
+            "Hiring external vendors",
+            "Identifying and developing future leaders",
+            "Payroll processing",
+            "Launching new products"
+        ],
+        "answer": "Identifying and developing future leaders"
+    },
+    {
+        "question": "Workplace diversity enhances:",
+        "options": [
+            "Uniformity",
+            "Innovation and problem-solving",
+            "Conflict",
+            "Complexity"
+        ],
+        "answer": "Innovation and problem-solving"
+    },
+    {
+        "question": "Disciplinary procedures help:",
+        "options": [
+            "Avoid structure",
+            "Maintain workplace rules",
+            "Encourage absenteeism",
+            "Demotivate staff"
+        ],
+        "answer": "Maintain workplace rules"
+    },
+    {
+        "question": "Orientation programs:",
+        "options": [
+            "Terminate new hires",
+            "Help new employees adapt",
+            "Track profits",
+            "Create products"
+        ],
+        "answer": "Help new employees adapt"
+    },
+    {
+        "question": "Job analysis provides:",
+        "options": [
+            "Cost report",
+            "Role clarity and requirements",
+            "Product specs",
+            "Tax returns"
+        ],
+        "answer": "Role clarity and requirements"
+    },
+    {
+        "question": "A project is:",
+        "options": [
+            "A routine task",
+            "A temporary effort with specific goals",
+            "An ongoing process",
+            "A maintenance activity"
+        ],
+        "answer": "A temporary effort with specific goals"
+    },
+    {
+        "question": "Project management includes:",
+        "options": [
+            "Product design",
+            "Planning, scheduling, and controlling projects",
+            "Daily routines",
+            "Legal audits"
+        ],
+        "answer": "Planning, scheduling, and controlling projects"
+    },
+    {
+        "question": "Critical Path Method (CPM) identifies:",
+        "options": [
+            "The shortest path",
+            "The longest path determining project duration",
+            "Cheapest route",
+            "Quality measures"
+        ],
+        "answer": "The longest path determining project duration"
+    },
+    {
+        "question": "Gantt charts are used for:",
+        "options": [
+            "Market analysis",
+            "Visual scheduling of tasks over time",
+            "Resource acquisition",
+            "Budget allocation"
+        ],
+        "answer": "Visual scheduling of tasks over time"
+    },
+    {
+        "question": "A milestone in project management is:",
+        "options": [
+            "A delay",
+            "A significant event or achievement",
+            "A task list",
+            "A finance review"
+        ],
+        "answer": "A significant event or achievement"
+    },
+    {
+        "question": "Work Breakdown Structure (WBS):",
+        "options": [
+            "Increases complexity",
+            "Breaks down project into manageable parts",
+            "Decreases responsibility",
+            "Focuses on budgeting"
+        ],
+        "answer": "Breaks down project into manageable parts"
+    },
+    {
+        "question": "Risk management in projects involves:",
+        "options": [
+            "Avoiding changes",
+            "Identifying and minimizing uncertainties",
+            "Increasing budget",
+            "Team hiring"
+        ],
+        "answer": "Identifying and minimizing uncertainties"
+    },
+    {
+        "question": "Resource leveling avoids:",
+        "options": [
+            "Project goals",
+            "Conflicts in resource usage",
+            "Market risks",
+            "Team bonding"
+        ],
+        "answer": "Conflicts in resource usage"
+    },
+    {
+        "question": "PERT is useful for:",
+        "options": [
+            "Estimating time for uncertain tasks",
+            "Salary calculations",
+            "Stakeholder analysis",
+            "Data backups"
+        ],
+        "answer": "Estimating time for uncertain tasks"
+    },
+    {
+        "question": "Stakeholders are:",
+        "options": [
+            "Only customers",
+            "All parties affected by the project",
+            "Suppliers only",
+            "Only managers"
+        ],
+        "answer": "All parties affected by the project"
+    },
+    {
+        "question": "A project manager must:",
+        "options": [
+            "Focus only on cost",
+            "Coordinate and manage all project aspects",
+            "Avoid leadership",
+            "Work independently"
+        ],
+        "answer": "Coordinate and manage all project aspects"
+    },
+    {
+        "question": "Slack time refers to:",
+        "options": [
+            "Time wasted",
+            "Extra time available without delaying the project",
+            "Break periods",
+            "Project cost buffer"
+        ],
+        "answer": "Extra time available without delaying the project"
+    },
+    {
+        "question": "Fast tracking a project means:",
+        "options": [
+            "Extending timelines",
+            "Doing tasks in parallel to speed up",
+            "Adding costs",
+            "Skipping planning"
+        ],
+        "answer": "Doing tasks in parallel to speed up"
+    },
+    {
+        "question": "Project scope defines:",
+        "options": [
+            "Budget",
+            "Objectives, deliverables, and boundaries",
+            "HR policy",
+            "Risks"
+        ],
+        "answer": "Objectives, deliverables, and boundaries"
+    },
+    {
+        "question": "Earned Value Management (EVM) helps:",
+        "options": [
+            "Ignore costs",
+            "Track project progress and performance",
+            "Hire staff",
+            "Monitor environment"
+        ],
+        "answer": "Track project progress and performance"
+    },
+    {
+        "question": "Technology management includes:",
+        "options": [
+            "Minimizing tools",
+            "Planning, developing, and implementing technology",
+            "Avoiding innovation",
+            "Marketing only"
+        ],
+        "answer": "Planning, developing, and implementing technology"
+    },
+    {
+        "question": "Innovation is:",
+        "options": [
+            "Copying existing products",
+            "Creating new ideas and technologies",
+            "Hiring strategies",
+            "Budgeting plans"
+        ],
+        "answer": "Creating new ideas and technologies"
+    },
+    {
+        "question": "Technology forecasting:",
+        "options": [
+            "Predicts weather",
+            "Predicts future tech trends and impact",
+            "Reviews HR documents",
+            "Sets prices"
+        ],
+        "answer": "Predicts future tech trends and impact"
+    },
+    {
+        "question": "Technology transfer involves:",
+        "options": [
+            "Financial reporting",
+            "Moving technology between people or institutions",
+            "Legal consultation",
+            "Tax filing"
+        ],
+        "answer": "Moving technology between people or institutions"
+    },
+    {
+        "question": "Disruptive technology:",
+        "options": [
+            "Enhances existing products",
+            "Replaces existing technology and changes markets",
+            "Lowers innovation",
+            "Copies old ideas"
+        ],
+        "answer": "Replaces existing technology and changes markets"
+    },
+    {
+    "question": "R&D stands for:",
+    "options": [
+      "Rights & Duties",
+      "Research & Development",
+      "Revenue & Discounts",
+      "Regulations & Decisions"
+    ],
+    "answer": "Research & Development"
+  },
+  {
+    "question": "Product life cycle stages include:",
+    "options": [
+      "R&D, growth, maturity, decline",
+      "Brainstorming only",
+      "Launch and retire only",
+      "Testing alone"
+    ],
+    "answer": "R&D, growth, maturity, decline"
+  },
+  {
+    "question": "Sustainable technology:",
+    "options": [
+      "Harms the environment",
+      "Meets present needs without compromising the future",
+      "Is outdated",
+      "Is not scalable"
+    ],
+    "answer": "Meets present needs without compromising the future"
+  },
+  {
+    "question": "Technology assessment evaluates:",
+    "options": [
+      "Legal aspects",
+      "Impact and effectiveness of technology",
+      "Payroll",
+      "Employee training"
+    ],
+    "answer": "Impact and effectiveness of technology"
+  },
+  {
+    "question": "A patent:",
+    "options": [
+      "Protects an inventor’s rights",
+      "Is a tax form",
+      "Is an HR policy",
+      "Measures customer reviews"
+    ],
+    "answer": "Protects an inventor’s rights"
+  },
+  {
+    "question": "Innovation funnel:",
+    "options": [
+      "Blocks ideas",
+      "Filters and selects innovative ideas",
+      "Is a sales method",
+      "Analyzes profits"
+    ],
+    "answer": "Filters and selects innovative ideas"
+  },
+  {
+    "question": "Licensing allows:",
+    "options": [
+      "Legal violations",
+      "Tech use by others under terms",
+      "Technology bans",
+      "Budget planning"
+    ],
+    "answer": "Tech use by others under terms"
+  },
+  {
+    "question": "TRIZ is:",
+    "options": [
+      "Russian patent office",
+      "A problem-solving methodology for innovation",
+      "A budgeting tool",
+      "HR system"
+    ],
+    "answer": "A problem-solving methodology for innovation"
+  },
+  {
+    "question": "Incremental innovation:",
+    "options": [
+      "Aims for breakthrough",
+      "Makes small improvements to existing products",
+      "Focuses on marketing",
+      "Ignores trends"
+    ],
+    "answer": "Makes small improvements to existing products"
+  },
+  {
+    "question": "Technology strategy aligns:",
+    "options": [
+      "HR policy",
+      "Tech initiatives with business goals",
+      "Accounting procedures",
+      "Travel plans"
+    ],
+    "answer": "Tech initiatives with business goals"
+  },
+  {
+    "question": "Engineering ethics refers to:",
+    "options": [
+      "Legal regulations",
+      "Moral obligations of engineers",
+      "Scientific laws",
+      "Financial standards"
+    ],
+    "answer": "Moral obligations of engineers"
+  },
+  {
+    "question": "NSPE stands for:",
+    "options": [
+      "National Society of Professional Engineers",
+      "National Safety Planning Engineers",
+      "New Systems Planning Environment",
+      "Network Security Professionals"
+    ],
+    "answer": "National Society of Professional Engineers"
+  },
+  {
+    "question": "A conflict of interest occurs when:",
+    "options": [
+      "Rules are followed",
+      "Personal interest interferes with professional duties",
+      "Team agrees",
+      "Budgets rise"
+    ],
+    "answer": "Personal interest interferes with professional duties"
+  },
+  {
+    "question": "Whistleblowing means:",
+    "options": [
+      "Encouraging fraud",
+      "Reporting unethical practices",
+      "Promoting secrecy",
+      "Planning travel"
+    ],
+    "answer": "Reporting unethical practices"
+  },
+  {
+    "question": "Professional responsibility includes:",
+    "options": [
+      "Avoiding accountability",
+      "Ensuring safety and welfare of public",
+      "Earning profits only",
+      "Promoting products"
+    ],
+    "answer": "Ensuring safety and welfare of public"
+  },
+  {
+    "question": "Code of ethics guides:",
+    "options": [
+      "Marketing",
+      "Ethical behavior and decisions",
+      "Legal penalties",
+      "HR hiring"
+    ],
+    "answer": "Ethical behavior and decisions"
+  },
+  {
+    "question": "Bribery is:",
+    "options": [
+      "Legal payment",
+      "Unethical or illegal inducement",
+      "A performance bonus",
+      "Tax refund"
+    ],
+    "answer": "Unethical or illegal inducement"
+  },
+  {
+    "question": "Plagiarism is:",
+    "options": [
+      "Using others’ work without credit",
+      "Innovation",
+      "Budget planning",
+      "Strategy creation"
+    ],
+    "answer": "Using others’ work without credit"
+  },
+  {
+    "question": "Safety in engineering means:",
+    "options": [
+      "Low cost",
+      "Ensuring protection of people and environment",
+      "Replacing teams",
+      "Financial reduction"
+    ],
+    "answer": "Ensuring protection of people and environment"
+  },
+  {
+    "question": "Sustainability requires:",
+    "options": [
+      "Cost focus",
+      "Balance among social, environmental, and economic goals",
+      "Short-term profits",
+      "Ignoring environment"
+    ],
+    "answer": "Balance among social, environmental, and economic goals"
+  },
+  {
+    "question": "Confidentiality means:",
+    "options": [
+      "Disclosing all info",
+      "Protecting sensitive data",
+      "Marketing secrets",
+      "Filing complaints"
+    ],
+    "answer": "Protecting sensitive data"
+  },
+  {
+    "question": "Engineering decisions should prioritize:",
+    "options": [
+      "Personal gain",
+      "Public health and welfare",
+      "Employer only",
+      "Shareholder value"
+    ],
+    "answer": "Public health and welfare"
+  },
+  {
+    "question": "Liability in engineering implies:",
+    "options": [
+      "Avoiding responsibility",
+      "Legal responsibility for products or services",
+      "Budget tracking",
+      "Expense claims"
+    ],
+    "answer": "Legal responsibility for products or services"
+  },
+  {
+    "question": "Ethics training helps:",
+    "options": [
+      "Confuse employees",
+      "Promote ethical awareness and compliance",
+      "Cut costs",
+      "Replace HR"
+    ],
+    "answer": "Promote ethical awareness and compliance"
+  },
+  {
+    "question": "Engineers must reject:",
+    "options": [
+      "Unsafe or unethical work",
+      "High salaries",
+      "Good designs",
+      "Feedback"
+    ],
+    "answer": "Unsafe or unethical work"
+  },
+  {
+    "question": "Intellectual property includes:",
+    "options": [
+      "Real estate",
+      "Trade secrets, patents, copyrights, trademarks",
+      "Raw materials",
+      "Machinery"
+    ],
+    "answer": "Trade secrets, patents, copyrights, trademarks"
+  },
+  {
+    "question": "A patent provides:",
+    "options": [
+      "Unlimited use rights",
+      "Legal protection for inventions",
+      "Market access",
+      "Branding assistance"
+    ],
+    "answer": "Legal protection for inventions"
+  },
+  {
+    "question": "Copyright protects:",
+    "options": [
+      "Physical goods",
+      "Creative works like books, music, software",
+      "Patents",
+      "Service contracts"
+    ],
+    "answer": "Creative works like books, music, software"
+  },
+  {
+    "question": "A trademark is:",
+    "options": [
+      "A software license",
+      "A symbol identifying a brand",
+      "A research report",
+      "A financial document"
+    ],
+    "answer": "A symbol identifying a brand"
+  },
+  {
+    "question": "Trade secrets include:",
+    "options": [
+      "Public knowledge",
+      "Confidential business information",
+      "Patents",
+      "Legal codes"
+    ],
+    "answer": "Confidential business information"
+  },
+  {
+    "question": "NDA stands for:",
+    "options": [
+      "National Data Archive",
+      "Non-Disclosure Agreement",
+      "New Development Agency",
+      "None of the above"
+    ],
+    "answer": "Non-Disclosure Agreement"
+  },
+  {
+    "question": "Licensing agreements allow:",
+    "options": [
+      "Theft of IP",
+      "Authorized use of IP",
+      "Free public usage",
+      "Ignoring legal rights"
+    ],
+    "answer": "Authorized use of IP"
+  },
+  {
+    "question": "Infringement refers to:",
+    "options": [
+      "Following legal rights",
+      "Unauthorized use of IP",
+      "Buying software",
+      "Branding"
+    ],
+    "answer": "Unauthorized use of IP"
+  },
+  {
+    "question": "Software piracy is:",
+    "options": [
+      "Buying licensed software",
+      "Unauthorized copying of software",
+      "Using hardware",
+      "Consulting services"
+    ],
+    "answer": "Unauthorized copying of software"
+  },
+  {
+    "question": "IP protection is critical to:",
+    "options": [
+      "Reduce taxation",
+      "Encourage innovation and protect creators",
+      "Cut costs",
+      "Improve HR"
+    ],
+    "answer": "Encourage innovation and protect creators"
+  },
+  {
+    "question": "DMCA relates to:",
+    "options": [
+      "Patent laws",
+      "Digital copyright protection",
+      "Manufacturing rules",
+      "HR guidelines"
+    ],
+    "answer": "Digital copyright protection"
+  },
+  {
+    "question": "Fair use doctrine allows:",
+    "options": [
+      "Unlimited use",
+      "Limited usage for education, news, etc.",
+      "Commercial replication",
+      "Ignoring ownership"
+    ],
+    "answer": "Limited usage for education, news, etc."
+  },
+  {
+    "question": "Patent trolls:",
+    "options": [
+      "Create new inventions",
+      "Buy patents to sue others",
+      "Protect trade secrets",
+      "Share IP"
+    ],
+    "answer": "Buy patents to sue others"
+  },
+  {
+    "question": "Utility patents protect:",
+    "options": [
+      "Decorative designs",
+      "New processes or machines",
+      "Logos",
+      "Copyrighted songs"
+    ],
+    "answer": "New processes or machines"
+  },
+  {
+    "question": "Design patents cover:",
+    "options": [
+      "Functional aspects",
+      "Ornamental design of products",
+      "Source code",
+      "Packaging only"
+    ],
+    "answer": "Ornamental design of products"
+  },
+  {
+    "question": "Globalization is:",
+    "options": [
+      "Local hiring",
+      "International integration of markets and economies",
+      "Government isolation",
+      "Focus on regional trade"
+    ],
+    "answer": "International integration of markets and economies"
+  },
+  {
+    "question": "Outsourcing involves:",
+    "options": [
+      "In-house development",
+      "Contracting work to external parties",
+      "Selling company assets",
+      "Legal battles"
+    ],
+    "answer": "Contracting work to external parties"
+  },
+  {
+    "question": "Offshoring means:",
+    "options": [
+      "Domestic hiring",
+      "Moving operations abroad to reduce cost",
+      "Investing in real estate",
+      "Local partnerships"
+    ],
+    "answer": "Moving operations abroad to reduce cost"
+  },
+  {
+    "question": "WTO stands for:",
+    "options": [
+      "World Tech Organization",
+      "World Trade Organization",
+      "Worker Training Office",
+      "Worldwide Transportation Order"
+    ],
+    "answer": "World Trade Organization"
+  },
+  {
+    "question": "Cultural intelligence is:",
+    "options": [
+      "Mathematical skill",
+      "Understanding and adapting to different cultures",
+      "Political opinion",
+      "Budget analysis"
+    ],
+    "answer": "Understanding and adapting to different cultures"
+  },
+  {
+    "question": "Multinational corporations operate:",
+    "options": [
+      "In one city",
+      "Only in developed countries",
+      "In multiple countries",
+      "Through NGOs only"
+    ],
+    "answer": "In multiple countries"
+  },
+  {
+    "question": "NAFTA is:",
+    "options": [
+      "Military alliance",
+      "A North American trade agreement",
+      "Cultural event",
+      "Technology fund"
+    ],
+    "answer": "A North American trade agreement"
+  },
+  {
+    "question": "Currency exchange risk affects:",
+    "options": [
+      "Domestic suppliers only",
+      "International business transactions",
+      "Nonprofits only",
+      "Local retailers only"
+    ],
+    "answer": "International business transactions"
+  },
+  {
+    "question": "Tariffs are:",
+    "options": [
+      "Sales promotions",
+      "Taxes on imported goods",
+      "Labor policies",
+      "Investment tools"
+    ],
+    "answer": "Taxes on imported goods"
+  },
+  {
+    "question": "Global supply chains:",
+    "options": [
+      "Operate in local regions",
+      "Integrate suppliers and markets worldwide",
+      "Deal with HR only",
+      "Are limited to government operations"
+    ],
+    "answer": "Integrate suppliers and markets worldwide"
+  },
+  {
+    "question": "Trade barriers:",
+    "options": [
+      "Facilitate import/export",
+      "Restrict trade between countries",
+      "Improve competitiveness",
+      "Encourage innovation"
+    ],
+    "answer": "Restrict trade between countries"
+  },
+  {
+    "question": "The European Union is:",
+    "options": [
+      "An individual country",
+      "A political and economic union of European nations",
+      "A military organization",
+      "A cultural society"
+    ],
+    "answer": "A political and economic union of European nations"
+  },
+  {
+    "question": "Globalization promotes:",
+    "options": [
+      "Self-reliance only",
+      "Economic interdependence",
+      "Political division",
+      "War"
+    ],
+    "answer": "Economic interdependence"
+  },
+  {
+    "question": "Trade surplus occurs when:",
+    "options": [
+      "Exports < Imports",
+      "Exports > Imports",
+      "No exports",
+      "Debt increases"
+    ],
+    "answer": "Exports > Imports"
+  },
+  {
+    "question": "Global workforce diversity requires:",
+    "options": [
+      "Uniform culture",
+      "Inclusive management practices",
+      "Elimination of language differences",
+      "Export bans"
+    ],
+    "answer": "Inclusive management practices"
+  },
+  {
+    "question": "Emerging technologies include:",
+    "options": [
+      "Steam engines",
+      "AI, nanotech, biotech",
+      "Horse carriages",
+      "Manual typewriters"
+    ],
+    "answer": "AI, nanotech, biotech"
+  },
+  {
+    "question": "AI stands for:",
+    "options": [
+      "Advanced Invention",
+      "Artificial Intelligence",
+      "Automated Integration",
+      "Analytical Innovation"
+    ],
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "question": "Nanotechnology deals with:",
+    "options": [
+      "Heavy machinery",
+      "Manipulation of matter at atomic/molecular scale",
+      "Network issues",
+      "Electronics repair"
+    ],
+    "answer": "Manipulation of matter at atomic/molecular scale"
+  },
+  {
+    "question": "Biotechnology combines:",
+    "options": [
+      "Cars and automation",
+      "Biology with tech for medical/agricultural innovation",
+      "Chemistry and literature",
+      "HR and IT"
+    ],
+    "answer": "Biology with tech for medical/agricultural innovation"
+  },
+  {
+    "question": "Green technologies focus on:",
+    "options": [
+      "Increasing carbon emissions",
+      "Environmental sustainability",
+      "Nuclear weapons",
+      "Road safety"
+    ],
+    "answer": "Environmental sustainability"
+  },
+  {
+    "question": "3D printing is used to:",
+    "options": [
+      "Copy documents",
+      "Create three-dimensional physical objects from digital designs",
+      "Scan barcodes",
+      "Manufacture chemicals"
+    ],
+    "answer": "Create three-dimensional physical objects from digital designs"
+  },
+  {
+    "question": "Smart infrastructure integrates:",
+    "options": [
+      "Bridges and roads",
+      "Sensors and data systems to optimize operations",
+      "Concrete and bricks only",
+      "Manual processes"
+    ],
+    "answer": "Sensors and data systems to optimize operations"
+  },
+  {
+    "question": "Renewable energy includes:",
+    "options": [
+      "Coal",
+      "Solar, wind, hydro",
+      "Diesel",
+      "Natural gas"
+    ],
+    "answer": "Solar, wind, hydro"
+  },
+  {
+    "question": "Quantum computing offers:",
+    "options": [
+      "Traditional binary logic",
+      "Superfast problem-solving using qubits",
+      "Basic math",
+      "Power saving only"
+    ],
+    "answer": "Superfast problem-solving using qubits"
+  },
+  {
+    "question": "Robotics integrates:",
+    "options": [
+      "Manual labor",
+      "Sensors, AI, and mechanics",
+      "Chemistry",
+      "Accounting tools"
+    ],
+    "answer": "Sensors, AI, and mechanics"
+  },
+  {
+    "question": "Internet of Things (IoT):",
+    "options": [
+      "Is a social network",
+      "Connects devices to share data",
+      "Requires LAN only",
+      "Is a marketing trend"
+    ],
+    "answer": "Connects devices to share data"
+  },
+  {
+    "question": "Tech forecasting helps:",
+    "options": [
+      "Predict birthdays",
+      "Plan future innovations",
+      "Reduce GDP",
+      "Set daily goals"
+    ],
+    "answer": "Plan future innovations"
+  },
+  {
+    "question": "Smart cities use:",
+    "options": [
+      "Typewriters",
+      "Tech for improved urban management",
+      "Horse carts",
+      "Basic lighting"
+    ],
+    "answer": "Tech for improved urban management"
+  },
+  {
+    "question": "Ethical challenges of future tech:",
+    "options": [
+      "Are minimal",
+      "Require strong frameworks",
+      "Don’t affect society",
+      "Should be ignored"
+    ],
+    "answer": "Require strong frameworks"
+  },
+  {
+    "question": "Lifelong learning is needed because:",
+    "options": [
+      "Knowledge becomes static",
+      "Technology constantly evolves",
+      "Exams are hard",
+      "AI replaces humans"
+    ],
+    "answer": "Technology constantly evolves"
+  }
+]
